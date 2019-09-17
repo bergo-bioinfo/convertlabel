@@ -1,0 +1,20 @@
+{
+   "name": "Convert Label",
+   "namespace": "Bergonie\\ConvertLabel",
+   "description": "TODO",
+   "authors": [
+       {
+            "name": "Quentin Cavaillé",
+            "email": "q.cavaille@bordeaux.unicancer.fr",
+            "institution": "Institut Bergonié"
+        }
+    ],
+   "links": {
+       "project": [
+          {
+             "name": "ConvertLabel",
+             "url": "convert.php"
+          }
+       ]
+   }
+}
