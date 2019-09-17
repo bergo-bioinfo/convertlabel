@@ -6,21 +6,6 @@
  * AUTHOR: Yec'han Laizet
  */
 
-// Call the REDCap Connect file in the main "redcap" directory
-require_once "../../redcap_connect.php";
-
-// OPTIONAL: Your custom PHP code goes here. You may use any constants/variables listed in redcap_info().
-
-/*
- * Page Logic
- */
-// OPTIONAL: Display the project header
-if (!isset($_POST["submit"])) {
-    require_once APP_PATH_DOCROOT . 'ProjectGeneral/header.php';
-}
-?>
-<?php
-
 // Obtain web service label from cache table of one item
 function getWebServiceCacheValues($project_id, $service, $category)
 {

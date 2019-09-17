@@ -13,7 +13,8 @@
        "project": [
           {
              "name": "ConvertLabel",
-             "url": "convert.php"
+             "url": "convert.php",
+             "show-header-and-footer":true
           }
        ]
    }
