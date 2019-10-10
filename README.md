@@ -1,4 +1,4 @@
-# RegExpValidate
+# ConvertLabel
 
 This is a REDcap module for converting REDCap csv export frow raw to label and label to raw
 
@@ -10,7 +10,7 @@ Select a file, choose the convertion. Done.
 
 * Clone this repo in $ROOTREDCAP/modules/convertLabel_vX.Y
 * Enable it in Control Center
-* Should be enabled in all project, or not. You're choice.
+* Should be enabled in all project, or not. Your choice.
 
 
 Only tested on v9.3.1 of REDCap
