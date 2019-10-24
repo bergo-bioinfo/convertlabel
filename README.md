@@ -1,10 +1,10 @@
-# ConvertLabel
+# ConvertLabel for REDCap
 
 This is a REDcap module for converting REDCap csv export frow raw to label and label to raw
 
 ## Usage
 
-Select a file, choose the convertion. Done.
+Select a file, choose the conversion. Done.
 
 ## Installation 
 
