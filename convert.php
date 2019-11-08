@@ -2,7 +2,7 @@
 /**
  * PLUGIN NAME: Raw <=> label conversion
  * DESCRIPTION: Convert report like csv file to raw or label. It also convert custom ontology fields
- * VERSION: 1.0
+ * VERSION: 1.0.0
  * AUTHOR: Yec'han Laizet
  */
 

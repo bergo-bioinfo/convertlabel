@@ -1,4 +1,5 @@
 {
+   "framework-version": 3,
    "name": "Convert Label",
    "namespace": "Bergonie\\ConvertLabel",
    "description": "TODO",

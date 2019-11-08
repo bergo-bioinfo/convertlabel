@@ -1,4 +1,4 @@
-# ConvertLabel for REDCap
+# ConvertLabel External Module for REDCap
 
 This is a REDcap module for converting REDCap csv export frow raw to label and label to raw
 
