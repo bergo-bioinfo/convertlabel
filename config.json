@@ -18,6 +18,7 @@
        "project": [
           {
              "name": "ConvertLabel",
+             "icon": "fas fa-exchange-alt",
              "url": "convert.php",
              "show-header-and-footer":true
           }
